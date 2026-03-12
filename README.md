@@ -1,76 +1,78 @@
- Project Title:
-Product Return Prediction using Logistic Regression
+Hi 👋 I'm Om Prakash Kannaujiya
 
-🧠 Objective:
-To predict whether a product will be returned or not based on features such as:
+🎓 B.Tech CSE (AI) Student
+🏫 KIET Group of Institutions
+💻 Passionate about Backend Development and Problem Solving
 
-Purchase Amount
+🚀 About Me
 
-Review Score
+🌱 Currently learning Node.js, Express, MongoDB
 
-Days to Delivery
+💻 Building REST APIs and Backend Projects
 
-📁 Files Included:
-product_return.csv – Dataset used for training and testing
+☁️ AWS Certified Cloud Practitioner
 
-AI_MSE_Report_Product_Return.pdf – Final report for submission
+📚 Interested in Backend Development and Cloud Computing
 
-product_return_prediction.ipynb – Google Colab/Notebook code file (optional)
+🧠 Practicing Aptitude and Problem Solving
 
-README.md – Project description and instructions
+🛠️ Tech Stack
 
-🛠️ Tools & Libraries Used:
-Python 3.x
+Languages
 
-Pandas
+Java
 
-Scikit-learn
+JavaScript
 
-Seaborn
+Backend
 
-Matplotlib
+Node.js
 
-🔍 Methodology:
-Load and clean dataset
+Express.js
 
-Preprocess data (column renaming, target conversion)
+Database
 
-Train-test split (80-20)
+MongoDB
 
-Train a Logistic Regression model
+MongoDB Atlas
 
-Evaluate performance using:
+Tools
 
-Accuracy
+Git
 
-Precision
+GitHub
 
-Recall
+Postman
 
-Confusion Matrix
+VS Code
 
-📈 Sample Metrics:
-Accuracy: ~85%
+📌 Projects
+📚 Library Management API
 
-Precision: ~83%
+REST API using Node.js and Express
 
-Recall: ~78%
+MongoDB database integration
 
-📊 Visualization:
-Confusion matrix heatmap is generated using Seaborn to show model performance visually.
+CRUD operations for books
 
-📚 References:
-Scikit-learn Documentation
+Tested using Postman
 
-Pandas & Seaborn Libraries
+🏥 Hospital Management API
 
-Dataset provided internally
+Backend API for managing patients
 
-Google Colab environment
+Built using Express and MongoDB
 
-👨‍💻 Author Info:
-Name: [OM PRAKASH KANNAUJIYA]
-Roll No.: [202401100300165]
-Semester: 2nd Semester
-Institute: KIET Group of Institutions
+Includes Create and Fetch operations
 
+📊 GitHub Stats
+
+📫 Connect With Me
+
+GitHub: https://github.com/Om23131212
+
+LinkedIn: https://www.linkedin.com/in/om-prakash-kannaujiya-264350313/
+
+⚡ Fun Fact
+
+I enjoy solving logical reasoning and aptitude problems along with coding.
