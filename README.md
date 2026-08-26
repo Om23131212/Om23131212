@@ -1,78 +1,127 @@
-Hi  I'm Om Prakash Kannaujiya
+<div align="center">
 
-  B.Tech CSE (AI) Student
-  KIET Group of Institutions
-  Passionate about Backend Development and Problem Solving
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7dd3fc,100:0ea5e9&text=OM%20PRAKASH%20KANNAUJIYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-  About Me
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=950&lines=Full+Stack+MERN+Developer;AWS+Solutions+Architect;Cloud+Computing+Enthusiast;Machine+Learning+Explorer;Data+Analysis+Enthusiast;Problem+Solver" />
+</p>
 
-  Currently learning Node.js, Express, MongoDB
+<br>
 
-  Building REST APIs and Backend Projects
+<img src="https://img.shields.io/badge/Status-%F0%9F%9A%80%20Learning%20%26%20Building-7dd3fc?style=for-the-badge"/>
 
-  AWS Certified Cloud Practitioner
+<a href="https://github.com/Om23131212">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  Interested in Backend Development and Cloud Computing
+<a href="mailto:om.231312mzp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  Practicing Aptitude and Problem Solving
+</div>
 
-  Tech Stack
+---
 
-Languages
+## 🌐 Connect With Me
 
-Java
+<div align="center">
 
-JavaScript
+<a href="https://github.com/Om23131212">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Backend
+<a href="mailto:om.231312mzp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Node.js
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Express.js
+</div>
 
-Database
+---
 
-MongoDB
+# 🧠 Who I Am
 
-MongoDB Atlas
+```yaml
+Name: Om Prakash Kannaujiya
 
-Tools
+Role:
+  - Full Stack MERN Developer
+  - AWS Solutions Architect
+  - Cloud Computing Enthusiast
+  - Machine Learning Explorer
+  - Data Analysis Enthusiast
+  - Problem Solver
 
-Git
+Education:
+  Degree: B.Tech
+  Branch: Computer Science & Engineering (AI)
+  Institute: KIET Group of Institutions
 
-GitHub
+Certification:
+  - AWS Certified Cloud Practitioner
 
-Postman
+Focus:
+  - Full Stack Development
+  - MERN Stack
+  - Backend Development
+  - REST APIs
+  - Cloud Computing
+  - AWS Solutions Architecture
+  - Data Analysis
+  - Machine Learning
+  - Problem Solving
 
-VS Code
+Languages:
+  - Java
+  - JavaScript
+  - Python
+  - C
+  - C++
 
-  Projects
-Lost and Found System
+Full Stack:
+  Frontend:
+    - HTML5
+    - CSS3
+    - JavaScript
+    - React.js
 
-REST API using Node.js and Express
+  Backend:
+    - Node.js
+    - Express.js
+    - REST APIs
 
-MongoDB database integration
+  Database:
+    - MongoDB
+    - MongoDB Atlas
+    - Mongoose
 
-CRUD operations for books
+Cloud:
+  - AWS
+  - Cloud Computing
+  - Solutions Architecture
+  - Scalable Application Design
 
-Tested using Postman
+Data & ML:
+  - Python
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Scikit-Learn
+  - Jupyter Notebook
 
-  Hospital Management API
+Development Tools:
+  - Git
+  - GitHub
+  - Postman
+  - VS Code
 
-Backend API for managing patients
+Current Mission: >
+  Build scalable full-stack applications,
+  cloud-based solutions, data-driven systems
+  and machine learning projects that solve
+  real-world problems.
 
-Built using Express and MongoDB
-
-Includes Create and Fetch operations
-
-  GitHub Stats
-
-📫 Connect With Me
-
-GitHub: https://github.com/Om23131212
-
-LinkedIn: https://www.linkedin.com/in/om-prakash-kannaujiya-264350313/
-
-  Fun Fact
-
-I enjoy solving logical reasoning and aptitude problems along with coding.
+Status: Learning | Building | Growing 🚀
