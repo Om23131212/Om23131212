@@ -172,16 +172,18 @@ A full-stack web platform that helps users report, search, and reclaim lost item
 <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om23131212&theme=tokyonight"/>
 </div>
 
-<!-- Snake Game Repo View -->
-
-###  Contribution
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Om23131212/Om23131212/output/snake.gif" alt="Snake animation" />
-</div>
 ---
 
+### 📈 Contribution Activity
+
+<!-- Snake Game Repo View -->
+
 <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 
 ### "Keep Learning • Keep Building • Keep Improving 🚀"
 
