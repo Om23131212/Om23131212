@@ -1,51 +1,45 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7dd3fc,100:0ea5e9&text=OM%20PRAKASH%20KANNAUJIYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=950&lines=Full+Stack+MERN+Developer;AWS+Solutions+Architect;Cloud+Computing+Enthusiast;Machine+Learning+Explorer;Data+Analysis+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;AWS+Solutions+Architect;Cloud+Computing+Enthusiast;Machine+Learning+Explorer" />
 </p>
-
 <br>
-
-<img src="https://img.shields.io/badge/Status-%F0%9F%9A%80%20Learning%20%26%20Building-7dd3fc?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Status-%F0%9F%8E%AF%20Focusing-7dd3fc?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Om23131212&label=Profile+Views&color=7dd3fc&style=for-the-badge"/>
 <a href="https://github.com/Om23131212">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="mailto:om.231312mzp@gmail.com">
+<a href="mailto:om.2321312mzp@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials:
 
 <div align="center">
 
-<a href="https://github.com/Om23131212">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:om.231312mzp@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/om-prakash-kannaujiya-264350313/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<a href="https://leetcode.com/u/__Om/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://codolio.com/profile/om__">
+<img src="https://img.shields.io/badge/Codolio-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="mailto:om.2321312mzp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 ---
 
 # 🧠 Who I Am
 
+```yaml
 Name: Om Prakash Kannaujiya
-
 Role:
   - Full Stack MERN Developer
   - AWS Solutions Architect
@@ -61,6 +55,7 @@ Education:
 
 Certification:
   - AWS Certified Cloud Practitioner
+  - AWS Solutions Architect
 
 Focus:
   - Full Stack Development
@@ -72,6 +67,27 @@ Focus:
   - Data Analysis
   - Machine Learning
   - Problem Solving
+
+Status: Learning | Building | Growing 
+```
+
+---
+
+###  Featured Projects
+
+#### 📦 Placement Prediction App
+
+A machine learning powered application that predicts student placement outcomes based on academic and skill-based data inputs.
+
+💻 [Code](https://github.com/Om23131212/placement-prediction-app)
+
+---
+
+#### 📦 Lost & Found System
+
+A full-stack web platform that helps users report, search, and reclaim lost items within a community or campus.
+
+💻 [Code](https://github.com/Om23131212/lost-found-system)
 
 ---
 
@@ -138,10 +154,8 @@ Focus:
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/__Om/)
+[![Codolio](https://img.shields.io/badge/Codolio-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/om__)
 
 </div>
 
@@ -150,49 +164,18 @@ Focus:
 # 📊 GITHUB STATS
 
 <div align="center">
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om23131212&theme=tokyonight"/>
-
 </div>
-
 <br>
-
 <div align="center">
-
 <img width="58%" src="https://streak-stats.demolab.com?user=Om23131212&theme=tokyonight&hide_border=true"/>
-
 <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om23131212&theme=tokyonight"/>
-
 </div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Om23131212&theme=nord&no-frame=true&no-bg=true&row=1&column=7&cache_seconds=1800" alt="Trophies"/>
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om23131212&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph"/>
-
-</div>
-
----
 
 <!-- Snake Game Repo View -->
 
 <div align="center">
-
   <img src="https://github.com/Om23131212/Snake-Game/blob/main/snake.gif" alt="Snake animation" />
-
 </div>
 
 ---
