@@ -174,10 +174,11 @@ A full-stack web platform that helps users report, search, and reclaim lost item
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://github.com/Om23131212/Snake-Game/blob/main/snake.gif" alt="Snake animation" />
-</div>
+###  Contribution
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Om23131212/Om23131212/output/snake.gif" alt="Snake animation" />
+</div>
 ---
 
 <div align="center">
