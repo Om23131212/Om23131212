@@ -23,12 +23,6 @@
 <a href="https://www.linkedin.com/in/om-prakash-kannaujiya-264350313/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/__Om/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://codolio.com/profile/om__">
-<img src="https://img.shields.io/badge/Codolio-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
 <a href="mailto:om.2321312mzp@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
